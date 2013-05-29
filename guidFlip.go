@@ -19,7 +19,7 @@ func flip(guid string) (output string) {
 	}
 	output += guidMatch[4]
 	output += guidMatch[5]
-  return
+	return
 }
 
 func main() {
