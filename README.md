@@ -1,0 +1,4 @@
+guidFlip
+========
+
+Flips a GUID
